@@ -1,0 +1,29 @@
+package exercise2;
+
+public class oneDayCampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(" My first day at campus i woke up at 6 in the Morning to pray");
+		System.out.println();
+		System.out.println("i went out at 7  to get my breakfast before  my class started");
+		System.out.println();
+		System.out.println("After i finish my class i will spend atleast 30 minutes to study again");
+		System.out.println();
+		System.out.println("and  some exercises");
+		System.out.println();
+		System.out.println("then after i finish studying, i went  to take a shower");
+		System.out.println();
+		System.out.println("in the evening, i did some exercise or workout with my roommate to increase my stamina ");
+		System.out.println();
+		System.out.println("By the time 6 in the evening, i took shower before i went to canteen to get dinner");
+		System.out.println();
+		System.out.println("At the night, i did some revision and dit my progamming subject's exercises at 8.30 pm");
+		System.out.println();
+		System.out.println("i will make sure i finished my programming's exercises before i go to sleep");
+		System.out.println();
+		System.out.println("i went to sleep at the 10 pm after finished my work");
+		
+		}
+
+}
